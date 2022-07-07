@@ -1,6 +1,5 @@
-- 👋 Hi, I’m @rileyounga
-- 👀 I’m interested in Algorithmic Design
-- 🌱 I’m currently learning Software Development as a Sophmore
+Junior College Student at UofA
+Data Science Intern at CDI
 
 
 <!---
