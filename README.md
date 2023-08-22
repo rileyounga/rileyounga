@@ -1,1 +1,1 @@
-Junior College Student at UofA
+Information Science, Data Science major @ UofA
